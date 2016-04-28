@@ -1,1 +1,3 @@
 # Seminar Applied Predictive Analytics 2016
+
+A description is coming soon ... 
