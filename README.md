@@ -1,1 +1,1 @@
-# Data Mining Cup 2016
+# Seminar Applied Predictive Analytics 2016
